@@ -39,10 +39,10 @@ devider()
 
 #The a and b between (), we call "parameters".
 #We can give values to these parameters. These values we call "arguments".
-def tel_up(a,b):
+def tel_op(a,b):
     return a + b
 
-totaal = tel_up(1,1)
+totaal = tel_op(1,1)
 
 print(totaal)
 
@@ -75,3 +75,4 @@ devider()
 print(tel_op(20))
 
 devider()
+
